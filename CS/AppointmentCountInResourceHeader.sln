@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentCountInResourceHeader", "AppointmentCountInResourceHeader\AppointmentCountInResourceHeader.csproj", "{11A05453-1E1D-4D06-BD35-D86E307FB21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A05453-1E1D-4D06-BD35-D86E307FB21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A05453-1E1D-4D06-BD35-D86E307FB21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A05453-1E1D-4D06-BD35-D86E307FB21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A05453-1E1D-4D06-BD35-D86E307FB21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
