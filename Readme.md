@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/AppointmentCountInResourceHeader/Form1.cs) (VB: [Form1.vb](./VB/AppointmentCountInResourceHeader/Form1.vb))
+* [Program.cs](./CS/AppointmentCountInResourceHeader/Program.cs) (VB: [Program.vb](./VB/AppointmentCountInResourceHeader/Program.vb))
+<!-- default file list end -->
 # How to display appointment counter at the Scheduler headers
 
 
